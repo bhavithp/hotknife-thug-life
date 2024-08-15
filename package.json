@@ -1,0 +1,21 @@
+{
+  "name": "hotknife-thug-life",
+  "displayName": "Hotknife_thug-life",
+  "description": "hotknife-thug-life visual studio theme by Hotknife",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Hotknife-thug-life",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Hotknife-thug-life-color-theme.json"
+      }
+    ]
+  }
+}
